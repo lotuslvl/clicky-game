@@ -1,0 +1,9 @@
+.score {
+    width: 100%;
+    text-align: center;
+    font-size: 1.2rem;
+    color: rgb(197, 123, 11);
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-family: monospace
+  }
